@@ -1,0 +1,32 @@
+REMITBOX
+
+#Remittance Platform used on the remittance outlet and pawn shops like Gemary and HLHUILLIER
+
+#Link: https://www.myremitbox.com/
+
+#Features:
+
+1. Send money to recipient (sendout)
+2. Receive money from sender (payout)
+3. Viewing of transactions
+4. Reporting of transactions (download reports)
+5. Analytics
+
+My Responsibilities
+
+1. Doing the front end applications
+2. Doing the API and other external integrations
+3. Doing the Backend Processor
+4. Deployment via AWS EC2
+5. Customer trainings
+6. Database Design and analysis
+7. Handle team for this project
+
+Technologies
+
+1. HTML
+2. CSS
+3. JQuery
+4. ASP Clasic
+5. VB.Net
+6. MYSQL

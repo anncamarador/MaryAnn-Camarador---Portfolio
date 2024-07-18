@@ -6,6 +6,9 @@ Link: https://play.google.com/store/apps/details?id=com.epayvenue.budgetload&hl=
 Features:
 
 1. E-loading for all network (SMART,GLOBE,SUN,TNT)
+2. Viewing transactions
+3. Bills Payment
+4. Reloading wallet
 
 My responsibilities of this project
 
@@ -18,3 +21,4 @@ Technologies
 2. JQuery
 3. VB.net
 4. ASP Classic
+5. MYSQL

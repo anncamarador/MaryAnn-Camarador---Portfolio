@@ -1,0 +1,36 @@
+IPCS
+
+#Web application used to generate PINS load and cards. This includes admin portal, retailer portal
+
+#Link: No longer up in the cloud
+
+#Retailer Portal Main Features:
+
+1. Activate PINS
+2. Consume PINS
+3. Viewing and Reporting (downloading files)
+4. Analytics
+
+#Admin Portal Main Features
+
+1. Generation of PINS (Batch Generation per Retailer)
+2. Assigning of PIN to the retailer by batch, series or single
+3. Viewing of transaction
+4. Viewing of Retailer
+5. Reporting (viewing and downloading files)
+
+#My responsibilities
+
+1. Frontend applications for retailer and admin portal
+2. Backend applications for retailer and admin
+3. Database design and analysis
+4. Client presentation
+
+#Technologies
+
+1. HTML
+2. CSS
+3. JQUERY
+4. ASP.net
+5. VB.net
+6. MYSQL

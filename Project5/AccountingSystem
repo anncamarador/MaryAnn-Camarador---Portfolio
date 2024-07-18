@@ -1,0 +1,26 @@
+Accounting System
+
+#A web application that is a structured process and set of procedures used to record, track, and manage financial transactions and information within an organization. This system ensures accurate and timely financial reporting, compliance with regulatory requirements, and informed decision-making.
+
+#Features
+
+1. General Ledger
+2. Accounts Payable and receivables
+3. Payroll
+4. Inventory
+5. Reporting
+6. Analytics
+7. Reconsalations
+8. Tax Management
+9. Others
+
+Reponsibilites:
+
+1. Doing the frontend application
+2. Doing API integrations
+
+Technologies
+
+1. HTML
+2. CSS
+3. JQuery
